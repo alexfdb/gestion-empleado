@@ -6,7 +6,7 @@ import java.time.LocalDate;
  */
 public class Gerente extends Empleado {
 
-    private static final double BONO_PORCENTAJE = 0.30; // 30% de bono
+    private static final double BONO_PORCENTAJE = 0.30;
 
     /**
      * Constructor completo
